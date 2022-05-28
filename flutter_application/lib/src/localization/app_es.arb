@@ -1,0 +1,12 @@
+{
+  "appTitle": "Campos de Golf Murcia",
+  "textField": "Buscar campo de golf",
+  "nombre": "Nombre: ",
+  "direccion": "Direccion: ",
+  "codigop": "Codigo Postal: ",
+  "municipio": "Municipio: ",
+  "pedania": "Pedanía: ", 
+  "telefono": "Teléfono: ",
+  "email": "E-Mail: ",
+  "filtroMunicipio": "Filtra por municipio: "
+}

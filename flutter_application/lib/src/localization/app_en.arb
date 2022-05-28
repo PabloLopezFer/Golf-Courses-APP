@@ -1,0 +1,12 @@
+{
+  "appTitle": "Murcia Golf Courses",
+  "textField": "Search golf course",
+  "nombre": "Name: ",
+  "direccion": "Address: ",
+  "codigop": "Postal Code: ",
+  "municipio": "Municipality: ",
+  "pedania": "District: ", 
+  "telefono": "Telephone: ",
+  "email": "E-Mail: ",
+  "filtroMunicipio": "Filter by municipality: "
+}
